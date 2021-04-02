@@ -1,0 +1,56 @@
+
+body {
+    font-family: "Lucida Grande", sans-serif;
+    text-align: center;
+    display: block;
+    background-color:#F6F6F6;
+
+}
+.bodycontent {
+	padding-left:25rem;
+	padding-right:25rem;
+	padding-top:3rem;
+	padding-bottom:5rem;
+
+}
+
+  .nav__item {
+        display: inline-block;
+        padding:1rem;
+       
+            }
+
+    .nav__link {
+        display: inline-block;
+        
+
+    }
+    .nav__link:hover {
+    background: black;
+    color: white;
+}
+    .nav {
+    padding: 1rem;
+    text-align: center;
+    background: orange;
+
+
+
+ }
+ .header {
+   padding: 10px;
+  text-align: center;
+  background-image: url('././images/the-strokes-bg.jpeg');
+ background-repeat: repeat;
+  font-size: 30px;
+  font-family: arial;
+  color:white;
+  text-shadow: 6px 6px 6px black;
+  border-style: solid;
+  border-color:black;
+  outline:black;
+}
+   .float-right {
+    float: right; 
+    padding: 2px;
+
